@@ -1,1 +1,3 @@
 # Class-Roster
+
+This project required the use of classses in C++ to create clean code that provided an output of student roster information with specific details such as name, age, degree program, days spent in courses, etc. The main focus of this project was to be able to implement modularity and organize code into separate classes to complete specific tasks, then combine all the tasks completed by each class to be used in the main.cpp file. This project allowed me to effectively learn how to use classes and pointers, parse strings, implement email validation, printing organized information in an output window, and returning error messages.
